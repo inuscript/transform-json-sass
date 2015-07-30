@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-sass": "^1.3.5",
+    "vinyl-transform": "^1.0.0"
+  }
 }
